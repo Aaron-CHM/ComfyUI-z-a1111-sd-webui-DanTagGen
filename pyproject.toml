@@ -2,7 +2,7 @@
 name = "comfyui-z-a1111-sd-webui-dantaggen"
 description = "Improved DanTagGen implementation that posesses all functionality of the A1111 webui extension."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 
 [project.urls]
 Repository = "https://github.com/Aaron-CHM/ComfyUI-z-a1111-sd-webui-DanTagGen"
